@@ -1,0 +1,65 @@
+
+h1, h2, h3, h4{background-color: #f0f0f0;
+    Font-family: sans-serif;
+    color: #a7a000;
+    font-weight: bold;
+}
+
+a{
+    color: #a7a000
+}
+
+h1, h2 {text-decoration: underline;}
+h1, h4 {text-align: center;}
+h1 {font-size: 300%}
+h4 {font-size: 130%;
+    font-family: Verdana;
+    }
+
+body {
+    background-image: url(silverware.jpg);
+    margin-right: 0px;
+    margin-left: 0px;
+
+    border-left: 25px white solid ;
+    border-right: 25px white solid ;
+
+
+}
+
+ul {list-style-image: url(fish_icon_24.png);}
+
+abbr{text-decoration: underline;}
+
+article p {
+    background-color: #ffffa9;
+    margin-left: 40px;
+    margin-right: 40px;
+
+}
+
+.mode{
+    color: #a3865b;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+.mode1{
+    font-family: Georgia, "Times New Roman", Times, Serif;
+    font-weight: bold;
+}
+
+.mode2{
+    font-family: Georgia, "Times New Roman", Times, Serif;
+}
+
+.mode3{
+    font-family: Georgia, "Times New Roman", Times, Serif;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.mode4{
+    font-family: Georgia, "Times New Roman", Times, Serif;
+    font-style: italic;
+}
